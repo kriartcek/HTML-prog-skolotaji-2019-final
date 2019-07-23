@@ -96,4 +96,9 @@ footer {
 #wrap{
     min-height:85%;
 }
-html{ height:100%; }
+html{ 
+    height:100%; 
+}
+.copyrights{
+    margin-top:25px;
+}
